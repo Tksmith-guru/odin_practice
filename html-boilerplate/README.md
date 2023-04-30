@@ -32,3 +32,5 @@ This is an element used to make your text on your website italics
 Additional tag
 <html lang= "en">
 This simply species the language used on your website
+<!--><--!>
+Comments
