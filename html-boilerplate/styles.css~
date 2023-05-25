@@ -3,4 +3,19 @@
 <link rel="odin_project" href="styles.css" />
 </head>
 
+div {
+	background-color: red;
+	text color: white;
+	font-size: 32px;
+	text-align: center;
+}
+p {
+	background-color: green;
+	text color: white;
+	font-size: 18px;
+}
 
+button {
+	background-color: orange;
+	font-size: 18px;
+}

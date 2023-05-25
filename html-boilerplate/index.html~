@@ -5,6 +5,7 @@
 		<head>
 			<meta charset= "UTF-8">
 			<div><title>My First Website</title></div>
+			<button>Newest design</button>
 		</head>
 
 		<body>
