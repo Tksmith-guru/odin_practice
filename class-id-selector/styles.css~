@@ -1,0 +1,19 @@
+.odd {
+	background-color: #FFC0CB;
+	font-family: "Verdana", "DejaVu Sans", "sans-serif"
+}
+
+#Unique {
+	color: rgb(0, 0, 2550);
+	font-size: 36px;
+}
+
+.odd no {
+	font-size; 24px;
+}
+
+#Mine {
+	background-color: rgb(0, 255, 0);
+	font-size: 24px;
+	font-weight: bold;
+}
