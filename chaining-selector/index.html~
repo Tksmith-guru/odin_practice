@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+	<html>
+		<head>
+			<meta charset="UTF-8">
+			<title>Chaining Selector</title>
+			<link rel="stylesheet" href="styles.css" />
+		</head>
+		<body>
+			<div>
+				<img class="avatar proportioned" src="images/Andrew.jpg" alt="A handsome guy">
+				<img class="avatar proportioned" src="images/katty.jpg" alt="A lovely lady">
+			</div>
+			<div>
+				<img class="avatar distored" src="images/Andrew2.jpg" alt="Another handsome guy">
+				<img class="avatar distorted" src="images/katty2.jpg" alt="Another lovely lady">
+		</body>
+	</html>
