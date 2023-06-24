@@ -1,0 +1,27 @@
+body {
+	max-width: 600px;
+	margin: 0 auto;
+}
+
+.first {
+	background: pink;
+	color: green;
+	padding: 32px;
+	margin: 12px;
+	border: 3px solid blue;
+}
+
+.Second {
+	background: blue;
+	margin-bottom: 48px;
+	border: 3px solid purple;
+	color: green;
+}
+
+.Third {
+	background: peachpuff;
+	border: 3px solid brown;
+	padding: 32px;
+	margin-left: auto;
+	width: 200px;
+}
