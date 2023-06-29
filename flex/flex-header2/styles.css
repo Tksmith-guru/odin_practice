@@ -20,7 +20,6 @@ ul {
 	padding: 0;
 	margin: 0;
 }
-
 a {
 	text-decoration: none;
 	color: rebeccapurple;
@@ -31,7 +30,6 @@ a {
 	align-items: center;
 	gap: 16px;
 }
-
 button {
 	border: none;
 	border-radius: 8px;
